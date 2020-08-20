@@ -1,5 +1,5 @@
 # HamsterPlumbingServices
-An android application developed in Unity about a fictional hamster that provides plumbing services. The app connects to the Google Maps Platform
+An android application developed in Unity about a fictional hamster that provides plumbing services. The app connects to the Google Maps Platform https://cloud.google.com/maps-platform
 
 # My contributions
 ° This was a collaborative project

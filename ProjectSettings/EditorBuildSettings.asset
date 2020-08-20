@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScreen.unity
+    guid: 7de77adea7106294abab761fc5bbbe0b
+  - enabled: 1
+    path: Assets/Scenes/CheckUbicationScreen.unity
+    guid: 34bdf5204a0bd924c82148691b981a08
+  - enabled: 1
+    path: Assets/Scenes/FinalScreen.unity
+    guid: bd1696e8cab904a4aae577596ac12424
+  m_configObjects: {}
